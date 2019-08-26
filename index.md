@@ -1,4 +1,4 @@
-#我有自己的网页啦，小火箭已经起航！
+#我有自己的网页啦，小快艇已经起航！
 
 You can use the [editor on GitHub](https://github.com/bigwhitepoplar/evolution/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
